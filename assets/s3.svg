@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="44" viewBox="0 0 840 44">
+<rect x="0.5" y="9.5" width="50" height="24" rx="12" fill="#FFF6EC" stroke="#E9C9A8"/>
+<text x="25.5" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#B85A0A">§3</text>
+<text x="64" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="21" fill="#A3222D">Results</text>
+<line x1="166" y1="22" x2="840" y2="22" stroke="#EFE8E4"/>
+</svg>
